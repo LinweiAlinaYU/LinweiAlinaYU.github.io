@@ -216,8 +216,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # - scope:
   #     path: ""
   #     type: teaching
