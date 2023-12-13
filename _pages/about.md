@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Haolin HE, a senior student at the University of Electronic Science and Technology of China, majoring in Communication Engineering. My research interests lie in artificial intelligence and signal processing.
+I am Linwei (Alina) YU, a senior student from the Faculty of Education at the University of Macau, majoring in Integrated Science. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced education.
 
 Education
 ======
 
-+ **2020-2024:** University of Electronic Science and Technology of China (UESTC), Chengdu, China.
- + **2017-2020:** Chengdu No.7 High School, Chengdu, China.
++ **2020-2024:** University of Macau (UM), Macau SAR, China.
 
 Contact
 ======
 
 I am currently seeking a Ph.D./MPhil position. If you are interested in me :), please contact me via the following email address:
 
-+ harlandzzc(at)gmail.com
-+ harlandhe(at)163.com
-+ harland0108(at)std.uestc.edu.cn
++ yulinwei016@gmail.com
++ yulinwei525@gmail.com
++ hc01196@um.edu.mo
 
