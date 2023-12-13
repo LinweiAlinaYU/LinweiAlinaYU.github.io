@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Linwei YU"
   avatar           : "profile.png"
-  bio              : "To be a thinking reed"
+  bio              : "Remember to look up at the stars and not down at your feet"
   location         : "Macau SAR, China"
   employer         :
   pubmed           : 
@@ -210,6 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+   - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # - scope:
   #     path: ""
   #     type: teaching
