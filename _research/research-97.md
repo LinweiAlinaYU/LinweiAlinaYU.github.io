@@ -1,6 +1,6 @@
 ---
-title: "Seeing the Light: Developing a Comprehensive Risk Assessment Model for Light Pollution"
-excerpt: "The paper has won the Finalist prize (2%, International-Level) in MCM/ICM. <br/><img src='/images/MCM-1.png' style='width: 90%;'>"
+title: "Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory"
+excerpt: "The paper is currently under revision. <br/><img src='/images/MCM-1.png' style='width: 90%;'>"
 collection: research
 ---
 
