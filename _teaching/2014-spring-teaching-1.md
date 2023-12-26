@@ -12,12 +12,10 @@ Under the supervision and guidance of _PROF. Bing WEI (Supervisor)_ and _MS. Ka-
 
 
 Specifically, the chemistry teaching work for junior high school grade 2 mainly focuses on _Unit 2 - The Air Around Us_ and _Unit 4 - Water in Nature_. The teaching for junior high school grade 3 mainly centered on _Unit 9 - Solutions_. And for the senior high grade 2 Scientific Inquiry course, the teaching of _Unit 9 - Acid and Base_ was mainly carried out. Among them, my specific work includes **lectures**, **lab class teaching**, **review courses teaching**, **exercise tutorials**, and **assessments**.
-
 <br/><img src='/images/TP1.png' style='width: 100%;'>
 
 
 It is worth mentioning that during my teaching, I experienced the transformative potential of technology-enhanced education. The use of tools like **NOBOOK's virtual laboratory** demonstrated how innovative technology could facilitate complex experimental activities safely and effectively in classrooms.
-
 <br/><img src='/images/TP2.png' style='width: 100%;'>
 
 
