@@ -1,7 +1,7 @@
 ---
 title: "Supervised Teaching and School Experience"
 collection: teaching
-position: "Chemistry and Scientific Inquiry Teacher"
+type: "Chemistry and Scientific Inquiry Teacher"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Macau Baptist College (Escola Cham Son de Macau)"
 date: 5th October 2023 – 19th December 2023
