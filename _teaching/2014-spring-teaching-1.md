@@ -8,13 +8,5 @@ date: 2023-10-05 to 2023-12-19
 location: "Macau S.A.R."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a supervised teaching and school experience, I participated in the teaching of junior high school grade 2 Chemistry, junior high school grade 3 Chemistry, and senior high school grade 2 Scientific Inquiry for 5 classes in total, specific works including lectures, lab class teaching, assessment, etc.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
