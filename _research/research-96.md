@@ -1,6 +1,6 @@
 ---
-title: "A Zeroing Neural Network for Solving Discrete Time-Varying Minimization with Different Adjustable Parameter"
-excerpt: "The paper has been accepted by ICMIR 2023. <br/><img src='/images/ZNN-1.png' style='width: 90%;'>"
+title: "The Meaning of ‘Experiment’ in the Chemistry Curriculum Standards in China: A Content Analysis"
+excerpt: "This is the project I am currently working on. <br/><img src='/images/ZNN-1.png' style='width: 90%;'>"
 collection: research
 ---
 
