@@ -4,7 +4,7 @@ collection: teaching
 type: "Chemistry and Scientific Inquiry Teacher"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Macau Baptist College (Escola Cham Son de Macau)"
-date: 5th October 2023 – 19th December 2023
+date: 2023-10-05 to 2023-12-19
 location: "Macau S.A.R."
 ---
 
