@@ -1,6 +1,6 @@
 ---
 title: "Preparation of Self-suspension Adsorption Functional Materials by Modification of Hollow Glass Microspheres (HGM)"
-excerpt: "The review paper titled “_Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review” is currently in revision_ <br/><img src='/images/Sory-1.png' style='width: 90%;'>"
+excerpt: "The review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (2023). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review” is currently in revision_ <br/><img src='/images/Sory-1.png' style='width: 90%;'>"
 collection: research
 ---
 
