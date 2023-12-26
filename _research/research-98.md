@@ -9,7 +9,7 @@ Hollow glass microsphere (HGM) is a kind of hollow closed sphere, which has the 
 <br/><img src='/images/HGM1.png' style='width: 49%;'>      <img src='/images/HGM2.png' style='width: 49%;'>
 
 In this research, I was responsible for **preparing the experimental materials**, **conducting the experiments**, **managing the data**, and **drafting the review paper**.
-<br/><img src='/images/HGM3.png' style='width: 80%;'>
+<br/><img src='/images/HGM3.png' style='width: 50%;'>
 
 In the review paper, the preparation process of self-floating separation adsorbent, the modification of HGM and the factors affecting the adsorption effect are reviewed, and the application range of HGM is extended to the preparation of adsorption materials. Our review paper aims to provide a theoretical basis for the application of HGM in wastewater treatment, and for relevant researchers to develop adsorbent materials with HGM as the main body, clarify ideas, and explore the potential of developing HGM into practice for large-scale wastewater treatment.
 <br/><img src='/images/HGM4.png' style='width: 100%;'>
