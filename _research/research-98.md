@@ -1,23 +1,20 @@
 ---
 title: "Preparation of Self-suspension Adsorption Functional Materials by Modification of Hollow Glass Microspheres (HGM)"
-excerpt: "The review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (2023). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review” is currently in revision_ <br/><img src='/images/Sory-1.png' style='width: 90%;'>"
+excerpt: "The review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (2023). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review” is currently in revision_ <br/><img src='/images/HGM1.png' style='width: 49%;'><img src='/images/HGM4.png' style='width: 49%;'>"
 collection: research
 ---
 
-With the advent of the Internet of Things, smart voice boxes with capabilities to control other smart devices have sprung up. Our project **aims to create a Smart Voice Box for home device control based on the Raspberry Pi to solve some problems that harm the quality of family life**, such as the inconvenient manual operation, incompatibility with other smart devices, and privacy concerns with commercial smart voice boxes. The system consists of 7 modules, including keyword spotting & instruction fetching module, speech-to-text module, function switch module, home smart device integration module, machine intellectual dialogue module, music retrieving & playing module, and text-to-speech module.
-<br/><img src='/images/Sory-2.png' style='width: 100%;'>  
+Hollow glass microsphere (HGM) is a kind of hollow closed sphere, which has the advantages of low density, stable chemical properties, reusable, excellent compression resistance, high adsorption capacity, high selectivity, etc. HGM has been widely used in aerospace, petroleum industry, thermal insulation materials, and other fields. Due to the unique structure and chemical properties of HGM, it has extremely high potential value in the field of wastewater treatment, and is an ideal carrier for preparing adsorbents with self-floating adsorbents. Modifying it with specific functional groups can enhance the adsorption capacity for specific pollutants and improve the adsorption selectivity. 
 
-A Raspberry Pi is utilized as a motherboard, connecting all other parts, and providing the computing ability. To receive voice instructions and respond, we adopt a microphone array for better reception and a loudspeaker to play sounds.  
-<br/><img src='/images/Sory-3.png' style='width: 100%;'>
+<br/><img src='/images/HGM1.png' style='width: 49%;'>      <img src='/images/HGM2.png' style='width: 49%;'>
 
-**When in idle condition**, the microphone array will keep detecting the keyword preset. After the wake-up word is detected, the voice box will keep checking the power of sound. Once the power detected is below a threshold, the microphone array will automatically stop recording, so that the system could process right clips of speaker's voice. Then, Speech-to-Text Module will first converts voice data into a WAVE file , and the WAVE data is then sent to API and converted into text. After that, Function Switch Module will execute specific functions accroding to instructions spoken by users. At last, specific function moudule is opearated. 
-<br/><img src='/images/Sory-4.png' style='width: 100%;'>
+In this research, I was responsible for **preparing the experimental materials**, **conducting the experiments**, **managing the data**, and **drafting the review paper**.
+<br/><img src='/images/HGM3.png' style='width: 80%;'>
 
-**In offline mode**, Sory can only catch some keywords in your instructions, compare them with the corpus stored and finally respond correctly. **If connected to the network**, Sory will be smarter and more powerful. It can analyze the whole sentence spoken by users and use online API from Microsoft to understand the instructions.
-<br/><img src='/images/Sory-5.png' style='width: 100%;'>
+In the review paper, the preparation process of self-floating separation adsorbent, the modification of HGM and the factors affecting the adsorption effect are reviewed, and the application range of HGM is extended to the preparation of adsorption materials. Our review paper aims to provide a theoretical basis for the application of HGM in wastewater treatment, and for relevant researchers to develop adsorbent materials with HGM as the main body, clarify ideas, and explore the potential of developing HGM into practice for large-scale wastewater treatment.
+<br/><img src='/images/HGM4.png' style='width: 100%;'>
 
-As the main speaker, I presented our team's developed smart speaker at **2022 University Students Research Presentation**, where it garnered unanimous praise and won the National Second Prize.  
-<br/><img src='/images/Sory-6.png' style='width: 49%;'>      <img src='/images/Sory-7.png' style='width: 49%;'>
+This review paper “Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (2023). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review.” is currently in revision. 
 
-Now, my teammates and I are writing a business plan, preparing to transform Sory into a guardian spirit for the elderly, and participate in the National Internet+ Innovation and Entrepreneurship Competition. 
-<br/><img src='/images/Sory-8.png' style='width: 100%;'>
+This project is supervised by the project leader _PROF. Bing WANG_ from the School of Chemistry and Chemical Engineering, Southwest Petroleum University.
+ <br/><img src='/images/HGM5.png' style='width: 100%;'>
