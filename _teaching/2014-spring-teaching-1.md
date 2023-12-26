@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Supervised Teaching and School Experience"
 collection: teaching
-type: "Undergraduate course"
+position: "Chemistry and Scientific Inquiry Teacher"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Macau Baptist College (Escola Cham Son de Macau)"
+date: 5th October 2023 – 19th December 2023
+location: "Macau S.A.R."
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
