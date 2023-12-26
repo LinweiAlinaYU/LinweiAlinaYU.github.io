@@ -1,6 +1,6 @@
 ---
 title: "A Pedagogical Framework to Foster Computational Thinking in STEM"
-excerpt: "This is the research project I am currently working on.<br/><img src='/images/DWI-1.png' style='width: 90%;'>"
+excerpt: "This is the research project I am currently working on. I'm Drafting the paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” as the first author.<br/><img src='/images/DWI-1.png' style='width: 90%;'>"
 collection: research
 ---
 
