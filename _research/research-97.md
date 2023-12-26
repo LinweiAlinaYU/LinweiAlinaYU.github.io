@@ -1,6 +1,6 @@
 ---
 title: "Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory"
-excerpt: "Part of the 2022/2023 Summer Research Programme. The paper "_Wei, B., Zhan, Z., Jiang, Z., & **Yu, L**. (2023). Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory_" is currently under revision."
+excerpt: "Part of the 2022/2023 Summer Research Programme. The paper '_Wei, B., Zhan, Z., Jiang, Z., & **Yu, L**. (2023). Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory_' is currently under revision."
 collection: research
 ---
 
