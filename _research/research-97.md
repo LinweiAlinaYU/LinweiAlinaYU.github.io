@@ -1,6 +1,6 @@
 ---
 title: "Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory"
-excerpt: "The paper is currently under revision. <br/><img src='/images/MCM-1.png' style='width: 90%;'>"
+excerpt: "The paper is currently under revision.<br/><img src='/images/MCM-1.png' style='width: 90%;'>"
 collection: research
 ---
 
