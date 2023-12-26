@@ -1,6 +1,6 @@
 ---
-title: "Sory: A Smart Voice Box for Home Device Control Based on Raspberry Pi"
-excerpt: "Final project of Digital Signal Processing (Challenging course, final score: 96), 2nd place in the 2022 University Students Research Presentation (State-Level), 1st place in Sichuan Embedded Competition (Provincial-Level)<br/><img src='/images/Sory-1.png' style='width: 90%;'>"
+title: "The production of self-floating adsorption functional materials by modifying hollow glass microspheres"
+excerpt: "The review paper titled “Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review” is currently under revision. <br/><img src='/images/Sory-1.png' style='width: 90%;'>"
 collection: research
 ---
 
