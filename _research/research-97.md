@@ -14,4 +14,4 @@ Based on the principles of Semantics/LCT, a new coding scheme was tailored to th
 
 <br/><img src='/images/LCT2.png' style='width: 100%;'>
 
-This is part of my 2022/2023 Summer Research Programme at the University of Macau, for which the principal investigator is **_PROF. Bing WEI_**. In this research, I mainly Conducted data analysis and drafted the results part of the paper. The research paper “_Wei, B., Zhan, Z., Jiang, Z., & **Yu, L**. (2023). Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory_” is currently in revision.
+This is part of my 2022/2023 Summer Research Programme at the University of Macau, for which the principal investigator is _**[Prof. Bing WEI.](https://fed.um.edu.mo/zh-hant/bing-wei/)**_. In this research, I mainly Conducted data analysis and drafted the results part of the paper. The research paper “_Wei, B., Zhan, Z., Jiang, Z., & **Yu, L**. (2023). Representation of Learning Outcomes Stipulated by the Intended Curriculum in Four Series of Chemistry Textbooks: Based on Legitimation Code Theory_” is currently in revision.
