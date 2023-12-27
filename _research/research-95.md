@@ -14,6 +14,6 @@ On the foundation of the CT-STEM course process framework, a lesson plan was dev
 
 After establishing a theoretical CT-STEM framework and a relevant curriculum design case, this study invites experienced STEM teachers with information technology education experience in Macau to conduct interviews, focusing on (1) the **potential learning outcomes (knowledge, skills, attitude)** students might gain through this lesson, (2) the **challenges** to implementing a plan like this in the classroom, (3) **migratability** of this CT-STEM framework. 
 
-I am now conducting interviews with experienced teachers and subsequently propose to analyze part of these results using epistemic network analysis (ENA). The related paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” is writing in progress.
+I am now conducting interviews with experienced teachers and subsequently propose to analyze part of these results using epistemic network analysis (ENA). **The related paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” is writing in progress.**
 
 This research is Collaborating with **_Zuokun LI_**, a Ph.D. student from the Educational Research Center of the University of Macau, under the advice of _**[Prof. Emily Pey-Tee OON](https://fed.um.edu.mo/zh-hant/emily-pey-tee-oon/)**_ from the University of Macau.
