@@ -1,23 +1,23 @@
 ---
 title: "A Pedagogical Framework to Foster Computational Thinking in STEM"
-excerpt: "This is the research project I am currently working on. I'm Drafting the paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” as the first author.<br/><img src='/images/DWI-1.png' style='width: 90%;'>"
+excerpt: "This is the research project I am currently working on. I'm Drafting the paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” as the first author.<br/><img src='/images/CT1.png' style='width: 90%;'>"
 collection: research
 ---
+In this digital era, the cultivation of students' computational thinking (CT) is important and urgent, while clear and universally recognized STEM course frameworks that foster students' computational thinking skills have rarely been proposed. In light of this gap, it is important to establish a STEM course process framework that can effectively cultivate students' CT literacy, as well as to provide a corresponding curriculum sample. 
 
-Diffusion Weighted Imaging (DWI), as the **only non-invasive method for characterising the microstructural organization of tissue in vivo**, plays a pivotal role in the study of Autism Spectrum Disorder (ASD). With the advancements in deep learning, employing deep neural networks to learn the mapping between DWI and ASD has shown immense potential. However, as ASD predominantly affects children, the intricacies of DWI acquisition and processing, coupled with variations in imaging equipment and parameters across different hospitals and institutions, have hindered the availability of a large-scale DWI dataset for neural network training, thus impeding the progress in this field.
+This study establishes a theoretical CT-STEM curriculum process framework and develops a sample lesson plan on the basis of the framework, with the aim of enhancing students’ CT and STEM competencies and literacy and providing a reference for relevant practitioners in pedagogical design and practice.
 
-In this project, one of our primary objectives is to utilize state-of-the-art DWI processing techniques (such as motion correction, brain masking, harmonization, etc.) to **compile DWI data from diverse sites**. This compilation aims to **create an scalable dataset for ASD**, subsequently **facilitating the design of a more precise and comprehensible neural network model**. The project is supervised by **[Fan Zhang.](https://zhangfanmark.github.io/#home)**
+**The CT-STEM course process framework proposed in this study was first created via a collaborative endeavor between me and Zuokun LI, a Ph.D. student from the Educational Research Center of the University of Macau.** Specifically, to establish the CT-STEM curriculum process framework theoretically, this study chose Li et al.'s (2021) relatively comprehensive CT process framework that corresponds to the design base learning (DBL) loop as the basis, comparing with other CT frameworks, and made a minor adjustment and refinement to the last part of Li et al.'s framework. Ultimately proposed a CT course process framework flow with seven major steps: (1) question abstract and decomposition, (2) data collection and analysis, (3) data representation, (4) algorithmic thinking, (5) automation and simulation, (6) testing and debugging, (7) iteration and generalization. To better implement the proposed CT course process framework process in STEM-integrated activities, the framework is placed into the 5E instructional model (Bybee et al., 2006). The resulting CT-STEM course process framework is shown as follows.
 
-<br/><img src='/images/DWI-2.png' style='width: 100%;'>
+<br/><img src='/images/CT1.png' style='width: 100%;'>
 
-The organization and processing steps of DWI data are rather intricate, necessitating a meticulous design of the entire pipeline. Through the establishment of this pipeline, I have amassed a wealth of experience in **the organization and processing of DWI data**.
+On the foundation of the CT-STEM course process framework, a lesson plan was developed based on the rigor of the CT-STEM steps within it. Based on junior high school physical acoustics, STEM activities were developed to incorporate the CT focus of machine learning and modeling, resulting in an "Understand Alien Language" program.
 
-The other one of the objectives of the project, in addition to constructing a larger dataset, is the **segmentation and study of the amygdala through Diffusion-Weighted Imaging (DWI)**. The amygdala, also referred to as the amygdaloid complex, plays crucial roles in emotional processing. Undoubtedly, there exists a close connection between it and autism. Hence, a more detailed segmentation of the amygdala is of great importance. The project is also supervised by **[Fan Zhang.](https://zhangfanmark.github.io/#home)**
+<br/><img src='/images/CT2.png' style='width: 100%;'>
+<br/><img src='/images/CT3.png' style='width: 100%;'>
 
-In this project, our aim is to **exclusively employ DWI for the segmentation of the amygdala**. Leveraging the advantages of DWI, we can acquire **both spatial structural and connectivity (indirectly reflective of functionality) information** of the amygdala, without introducing any biases caused by registration.
+After establishing a theoretical CT-STEM framework and a relevant curriculum design case, this study invites experienced STEM teachers with information technology education experience in Macau to conduct interviews, focusing on (1) the potential learning outcomes (knowledge, skills, attitude) students might gain through this lesson, the challenges to implementing a plan like this in the classroom, (3) transportability of this CT-STEM framework. 
 
-<br/><img src='/images/DWI-4.png' style='width: 100%;'>
+I am now conducting interviews with experienced teachers and subsequently propose to analyze part of these results using epistemic network analysis (ENA). And the related paper is writing in progress.
 
-We are currently utilizing **cutting-edge techniques to extract information about the amygdala** from DWI. Through the application of deep learning methods, we are designing clustering algorithms to effectively perform subregion segmentation of the amygdala.
-
-We are now writing the paper (which will be submitted to ISBI), so more details won't be shown on the website.
+This research is under the advice of **_PROF. Emily Pey-Tee OON_** from the University of Macau.
