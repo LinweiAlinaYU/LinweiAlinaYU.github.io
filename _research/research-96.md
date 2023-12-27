@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of ‘Experiment’ in the Chemistry Curriculum Standards in China: A Content Analysis"
-excerpt: "This is the project I am currently working on. <br/><img src='/images/ZNN-1.png' style='width: 90%;'>"
+excerpt: "This is the project I am currently working on.>"
 collection: research
 ---
 
