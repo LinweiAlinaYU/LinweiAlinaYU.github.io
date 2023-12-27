@@ -1,10 +1,9 @@
 ---
-title: 'Volunteering at the Chengdu Research Base of Giant Panda Breeding'
-date: 2023-8-1
-permalink: /posts/2028/8/blog-post-1/
+title: 'Alumni Mentorship Scheme'
+date: 2023-12-28
+permalink: /posts/2023/12/blog-post-1/
 tags:
-  - Volunteer
-  - Panda
+  - Alumni Mentorship Scheme
 ---
 
 During this summer vacation, I volunteered for 40 hours at the Chengdu Research Base of Giant Panda Breeding. My main responsibilities included conducting educational activities related to giant pandas, participating in wildlife conservation and environmental protection initiatives, and providing assistance in various related tasks.
