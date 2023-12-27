@@ -1,6 +1,6 @@
 ---
 title: "A Comparative Study of Technological and Engineering Education Policies in China and the USA"
-excerpt: "Assisted STEM education policy research of the *Standards for Technological and Engineering Literacy* published in the United States (ITEEA, 2020), and *The Science Curriculum Standards of Compulsory Education (the 2020 vision)* in China (MoE, 2020). Conducted literature review and conducted content analysis. <br/><img src='/images/acoustic-1.png' style='width: 90%;'>"
+excerpt: "Assisted STEM education policy research of the *Standards for Technological and Engineering Literacy* published in the United States (ITEEA, 2020), and *The Science Curriculum Standards of Compulsory Education (the 2020 vision)* in China (MoE, 2020). Conducted literature review and conducted content analysis."
 collection: research
 ---
 
