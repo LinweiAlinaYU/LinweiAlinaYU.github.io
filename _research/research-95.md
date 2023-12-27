@@ -16,4 +16,4 @@ After establishing a theoretical CT-STEM framework and a relevant curriculum des
 
 I am now conducting interviews with experienced teachers and subsequently propose to analyze part of these results using epistemic network analysis (ENA). The related paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” is writing in progress.
 
-This research is Collaborating with **_Zuokun LI_**, a Ph.D. student from the Educational Research Center of the University of Macau, under the advice of **_PROF. Emily Pey-Tee OON_** from the University of Macau.
+This research is Collaborating with **_Zuokun LI_**, a Ph.D. student from the Educational Research Center of the University of Macau, under the advice of _**[Prof. Emily Pey-Tee OON](https://fed.um.edu.mo/zh-hant/emily-pey-tee-oon/)**_ from the University of Macau.
