@@ -8,7 +8,7 @@ date: 2023-10-05 to 2023-12-19
 location: "Macau S.A.R."
 ---
 
-Under the supervision and guidance of _**[Prof. Bing WEI.](https://fed.um.edu.mo/zh-hant/bing-wei/)**(Supervisor)_ and **_MS. Ka-Ming TSANG (Mentor)_**, I have completed 11 weeks of supervised teaching and school experience, from 5th October 2023 to 19th December 2023. I participated in the teaching of junior high school grade 2 Chemistry, junior high school grade 3 Chemistry, and senior high school grade 2 Scientific Inquiry for 5 classes in total, specific works including lectures, lab class teaching, assessment, etc.
+Under the supervision and guidance of **_[Prof. Bing WEI.](https://fed.um.edu.mo/zh-hant/bing-wei/)(Supervisor)_** and **_MS. Ka-Ming TSANG (Mentor)_**, I have completed 11 weeks of supervised teaching and school experience, from 5th October 2023 to 19th December 2023. I participated in the teaching of junior high school grade 2 Chemistry, junior high school grade 3 Chemistry, and senior high school grade 2 Scientific Inquiry for 5 classes in total, specific works including lectures, lab class teaching, assessment, etc.
 
 <br/><img src='/images/CERTIFICATE OF INTERNSHIP.png' style='width: 90%;'>
 
