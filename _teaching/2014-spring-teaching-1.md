@@ -21,4 +21,4 @@ It is worth mentioning that during my teaching, I experienced the transformative
 <br/><img src='/images/TP2.png' style='width: 100%;'>
 
 
-In conclusion, I have benefited a lot from this teaching experience, which provided me an opportunity to put the theoretical knowledge I had learned in the previous three years into practice, which facilitated me to familiarize myself with the actual teaching process, enhanced my teaching practice ability, and helped me to understand the current education situation in Macau schools.
+I have benefited immensely from this teaching experience, which provided me with an opportunity to put the theoretical knowledge I learned in the previous three years into practice, helping me familiarize myself with the actual teaching process, enhancing my teaching practice ability, and enabling me to better understand the current education situation in Macau schools.
