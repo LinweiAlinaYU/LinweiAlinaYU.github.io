@@ -18,7 +18,7 @@ Education
 Contact
 ======
 
-I am currently seeking a Ph.D./MPhil position. Please contact me via the following email address:):
+I am currently seeking a Ph.D./M.Phil. position. You can contact me via the following email address:):
 
 + yulinwei016@gmail.com
 + hc01196@um.edu.mo
