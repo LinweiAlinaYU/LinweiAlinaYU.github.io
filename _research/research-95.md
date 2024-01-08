@@ -1,6 +1,6 @@
 ---
 title: "A Pedagogical Framework to Foster Computational Thinking in STEM"
-excerpt: "This is the research project I am currently working on. I'm Drafting the paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” as the first author.<br/><img src='/images/CT1.png' style='width: 100%;'>"
+excerpt: "This is the research project I am currently working on. I'm writing the paper titled “_A Pedagogical Framework to Foster Computational Thinking in STEM: From the Perspective of Teachers_” as the first author.<br/><img src='/images/CT1.png' style='width: 100%;'>"
 collection: research
 ---
 In this digital era, the cultivation of students' **computational thinking (CT)** is important and urgent, while clear and universally recognized STEM course frameworks that foster students' computational thinking skills have rarely been proposed. In light of this gap, it is important to establish a STEM course process framework that can effectively cultivate students' CT literacy, as well as to provide a corresponding curriculum sample. With this aim, this study establishes a theoretical CT-STEM curriculum process framework and develops a sample lesson plan on the basis of the framework, to enhance students’ CT and STEM competencies and literacy and provide a reference for relevant practitioners in pedagogical design and practice.
