@@ -1,6 +1,6 @@
 ---
 title: "Preparation of Self-suspension Adsorption Functional Materials by Modification of Hollow Glass Microspheres (HGM)"
-excerpt: "Assisted research works by preparing experimental materials, conducting experiments, managing data, and drafting the review paper. The review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (2023). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review_ ” is currently in revision. <br/><img src='/images/HGM1.png' style='width: 49%;'><img src='/images/HGM4.png' style='width: 49%;'>"
+excerpt: "Assisted research works by preparing experimental materials, conducting experiments, managing data, and drafting the review paper. The review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (XX). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review_ ” is currently in revision. <br/><img src='/images/HGM1.png' style='width: 49%;'><img src='/images/HGM4.png' style='width: 49%;'>"
 collection: research
 ---
 
