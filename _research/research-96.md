@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of “Experiment” in the Chemistry Curriculum Standards in China: A Content Analysis"
-excerpt: "This is the research project I am currently working on. I'm drafting the paper titled “_The Meaning of ‘Experiment’ in the Chemistry Curriculum Standards in China: A Content Analysis_” in progress."
+excerpt: "This is the research project I am currently working on. I'm writing the paper titled “_The Meaning of ‘Experiment’ in the Chemistry Curriculum Standards in China: A Content Analysis_” in progress."
 collection: research
 ---
 
