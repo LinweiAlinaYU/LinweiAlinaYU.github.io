@@ -19,5 +19,5 @@ In the review paper, the preparation process of self-floating separation adsorbe
 
 This review paper “_Wang, B., Qiu, R., **Yu, L.**, Zhao, D., Zeng, Y., & Xiong, M. (XX). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review._” is currently in revision. 
 
-This project is supervised by the project leader _**[Prof. Bing WANG.](https://www.swpu.edu.cn/hgy/szdw/jsdw/js05/wb.htm)**_ from the School of Chemistry and Chemical Engineering, Southwest Petroleum University.
+This project is supervised by the project leader _**[Prof. Bing WANG](https://www.swpu.edu.cn/hgy/szdw/jsdw/js05/wb.htm)**_ from the School of Chemistry and Chemical Engineering, Southwest Petroleum University.
  <br/><img src='/images/HGM5.png' style='width: 100%;'>
