@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Linwei (Alina) YU, a senior student from the Faculty of Education at the University of Macau, majoring in Integrated Science. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced education.
+I am Linwei (Alina) YU, a senior student from the Faculty of Education at the University of Macau, majoring in Integrated Science. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced learning.
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
 Contact
 ======
 
-I am currently seeking a Ph.D./M.Phil. position. You can contact me via the following email address:)
+I am currently seeking a Ph.D./M.Phil. position :). You can contact me via the following email address:
 
 + yulinwei016@gmail.com
 + hc01196@um.edu.mo
