@@ -17,7 +17,7 @@ In the review paper, the preparation process of self-floating separation adsorbe
 <br/><img src='/images/HGM4.png' style='width: 100%;'>
 
 
-The review paper “_[Qiu, R., Wang, B., Shang, J., Hu, G.,** Yu, L.**, & Gao, X. (2024). Modifying hollow glass microspheres to obtain self-floating separation adsorbents for adsorbing pollutants in wastewater: A review. Journal of Molecular Liquids, 404, 124965.](https://doi.org/10.1016/j.molliq.2024.124965.) (SCI)_” is currently published.
+The review paper “_[Qiu, R., Wang, B., Shang, J., Hu, G.,** Yu, L.**, & Gao, X. (2024). Modifying hollow glass microspheres to obtain self-floating separation adsorbents for adsorbing pollutants in wastewater: A review. Journal of Molecular Liquids, 404, 124965.](https://doi.org/10.1016/j.molliq.2024.124965) (SCI)_” is currently published.
 
 This project is supervised by the project leader _**[Prof. Bing WANG](https://www.swpu.edu.cn/hgy/szdw/jsdw/js05/wb.htm)**_ from the School of Chemistry and Chemical Engineering, Southwest Petroleum University.
  <br/><img src='/images/HGM5.png' style='width: 100%;'>
