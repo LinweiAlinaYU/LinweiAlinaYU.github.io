@@ -1,6 +1,6 @@
 ---
 title: "Preparation of Self-suspension Adsorption Functional Materials by Modification of Hollow Glass Microspheres (HGM)"
-excerpt: "Assisted research works by preparing experimental materials, conducting experiments, managing data, and drafting the review paper. The review paper “_Wang, B., Qiu, R., Shang, J., Hu, G., **Yu, L.**, & Gao, X. (2024). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review. Journal of Molecular Liquids. (SCI)_” is currently **accepted for publication** (Manuscript Number: MOLLIQ-D-24-01371R1). <br/><img src='/images/HGM1.png' style='width: 49%;'><img src='/images/HGM4.png' style='width: 49%;'>"
+excerpt: "Assisted research works by preparing experimental materials, conducting experiments, managing data, and drafting the review paper. The review paper “_[Qiu, R., Wang, B., Shang, J., Hu, G.,** Yu, L.**, & Gao, X. (2024). Modifying hollow glass microspheres to obtain self-floating separation adsorbents for adsorbing pollutants in wastewater: A review. Journal of Molecular Liquids, 404, 124965.](https://doi.org/10.1016/j.molliq.2024.124965.) (SCI)_” is currently published. <br/><img src='/images/HGM1.png' style='width: 49%;'><img src='/images/HGM4.png' style='width: 49%;'>"
 collection: research
 ---
 
@@ -17,7 +17,7 @@ In the review paper, the preparation process of self-floating separation adsorbe
 <br/><img src='/images/HGM4.png' style='width: 100%;'>
 
 
-The review paper “_Wang, B., Qiu, R., Shang, J., Hu, G., **Yu, L.**, & Gao, X. (2024). Modifying Hollow Glass Microspheres to Obtain Self-floating Adsorbents for Wastewater Treatment: A Review. Journal of Molecular Liquids. (SCI)_” is currently **accepted for publication** (Manuscript Number: MOLLIQ-D-24-01371R1).
+The review paper “_[Qiu, R., Wang, B., Shang, J., Hu, G.,** Yu, L.**, & Gao, X. (2024). Modifying hollow glass microspheres to obtain self-floating separation adsorbents for adsorbing pollutants in wastewater: A review. Journal of Molecular Liquids, 404, 124965.](https://doi.org/10.1016/j.molliq.2024.124965.) (SCI)_” is currently published.
 
 This project is supervised by the project leader _**[Prof. Bing WANG](https://www.swpu.edu.cn/hgy/szdw/jsdw/js05/wb.htm)**_ from the School of Chemistry and Chemical Engineering, Southwest Petroleum University.
  <br/><img src='/images/HGM5.png' style='width: 100%;'>
