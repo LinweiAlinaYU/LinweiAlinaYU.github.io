@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Linwei (Alina) YU, a senior student from the Faculty of Education at the University of Macau, majoring in Integrated Science. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced learning.
+I am Linwei (Alina) YU, a graduate of the B.Ed. in Integrated Science Programme at the University of Macau and an incoming MA student in Education (Social Research Methodology) at the University of California, Berkeley. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced learning.
 
 Education
 ======
 
 + **2020-2024:** University of Macau (UM), Macau SAR, China.
++ **2024-:** University of California at Berkeley, Berkeley, CA, US.
 
 Contact
 ======
@@ -21,5 +22,6 @@ Contact
 You can contact me via the following email address:)
 
 + yulinwei016@gmail.com
-+ hc01196@um.edu.mo
++ linweiyu@berkeley.edu
++ hc01196@connect.um.edu.mo
 
