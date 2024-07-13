@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Linwei (Alina) YU, a graduate of the B.Ed. in Integrated Science Programme at the University of Macau and an incoming MA student in Education (Social Research Methodology) at the University of California, Berkeley. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced learning.
+I am Linwei (Alina) YU, a graduate of the B.Ed. in Integrated Science Programme at the University of Macau, and an incoming MA student in Education (Social Research Methodology) at the University of California, Berkeley. My research interests lie in integrated science curriculum, emerging STEM education, computational thinking (CT), and technology-enhanced learning.
 
 Education
 ======
