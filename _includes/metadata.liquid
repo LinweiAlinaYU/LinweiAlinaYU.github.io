@@ -205,7 +205,7 @@
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
   {% if site.youtube_id %}
-    {% capture link %}https://youtube.com/@{{ site.youtube_id }}{% endcapture %}
+    {% capture link %}https://youtube.com/channel/{{ site.youtube_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
   {% if site.discord_id %}

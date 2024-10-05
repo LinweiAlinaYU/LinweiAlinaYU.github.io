@@ -13,9 +13,6 @@
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 {% endif %}
-{% if site.inspirehep_id %}
-  <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>
-{% endif %}
 {% if site.semanticscholar_id %}
   <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
 {% endif %}
@@ -113,7 +110,7 @@
   <a href="https://bsky.app/profile/{{ site.bluesky_url }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
 {% endif %}
 {% if site.youtube_id %}
-  <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+  <a href="https://youtube.com/channel/{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
 {% endif %}
 {% if site.discord_id %}
   <a href="https://discord.com/users/{{ site.discord_id }}" title="Discord"><i class="fa-brands fa-discord"></i></a>
