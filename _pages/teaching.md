@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: In this section, I showcase some of my academic research experiences. You can click on each title for details.
 nav: true
-nav_order: 6
+nav_order: 4
 display_categories: [STEM]
 horizontal: false
 ---
