@@ -5,7 +5,7 @@ description: This research project has been completed with related paper “The 
 img: 
 importance: 93
 category: Education
-related_publications: false
+# related_publications: false
 ---
 
 The term "experiment" appears a lot in the field of science education. It can be used to refer to all practical activities involved in the science curriculum (Millar, 2015). It is an integral part of the science curriculum in schools, which is often regarded as the most attractive core activity in the school science teaching process (Abrahams, 2009) and can be well motivated for students' situational interests. Wei& Chen (2020) proposed that "experiment" in practical work can be considered to hold four meanings: **(1) scientific process, (2) scientific inquiry, (3) subject content, and (4) pedagogy**. So helping secondary education science teachers understand the connotations of "experiment" is of great importance in science education. 

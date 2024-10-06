@@ -5,7 +5,7 @@ description: Assisted research works by preparing experimental materials, conduc
 img: 
 importance: 96
 category: Chemistry
-related_publications: true
+# related_publications: true
 ---
 
 Hollow glass microsphere (HGM) is a kind of hollow closed sphere, which has the advantages of low density, stable chemical properties, reusable, excellent compression resistance, high adsorption capacity, high selectivity, etc. HGM has been widely used in aerospace, petroleum industry, thermal insulation materials, and other fields. Due to the unique structure and chemical properties of HGM, it has extremely high potential value in the field of wastewater treatment, and is an ideal carrier for preparing adsorbents with self-floating adsorbents. Modifying it with specific functional groups can enhance the adsorption capacity for specific pollutants and improve the adsorption selectivity. 

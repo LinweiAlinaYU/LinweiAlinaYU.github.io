@@ -5,7 +5,7 @@ description: Part of the Summer Research Programme 2023
 img: 
 importance: 94
 category: Education
-related_publications: true
+# related_publications: true
 ---
 
 Intellectual demands of learning outcomes in the intended curriculum have always been a concern across the field of chemistry education. Especially, the representation of those stipulated by the intended curriculum in chemistry textbooks has become a big issue for both chemistry curriculum studies and chemistry teaching. To address this issue, the concepts of semantic density (SD) and semantic gravity (SG), borrowed from Semantics and Legitimation Code Theory (LCT), were employed in this study with the purpose of examining the degrees of complexity and abstraction of chemical knowledge under the topic ‘Common Substances’ in four series of chemistry textbooks, which were compiled in compliance with the national chemistry curriculum of the compulsory education (Grades 1-9) in China. 

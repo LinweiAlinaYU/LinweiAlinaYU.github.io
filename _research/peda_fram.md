@@ -5,7 +5,7 @@ description: The research process of this project has been completed. I'm writin
 img: 
 importance: 92       
 category: Education
-related_publications: true
+# related_publications: true
 ---
 
 In this digital era, the cultivation of students' **computational thinking (CT)** is increasingly important, yet widely accepted STEM course frameworks that integratively foster students' computational thinking skills are still scarce. Addressing this gap, this study proposes a CT-STEM pedagogical framework—a CT-STEM course process framework and a sample lesson plan—to enhance students’ CT and STEM competencies and literacy, offering valuable insights and practical guidance for educators.

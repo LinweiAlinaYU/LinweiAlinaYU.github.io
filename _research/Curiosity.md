@@ -5,7 +5,7 @@ description: "The research for this project has been completed. I'm currently wr
 img: 
 importance: 91
 category: Education
-related_publications: true
+# related_publications: true
 ---
 
 **Perceptions of Curiosity in School and Their Relation with Academic Performance: A Quantitative Ethnography Study**
