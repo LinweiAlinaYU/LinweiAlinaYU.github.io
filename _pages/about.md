@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Berkeley, CA</p>
+    <p> Berkeley, CA, U.S.A. </p>
     
 
 # news: true # includes a list of news items
