@@ -24,4 +24,4 @@ I am Linwei (Alina) YU, a PhD student a PhD student at The University of Hong Ko
 - Computational Thinking;
 - Artificial Intelligence for Education
 - STEM Curriculum and Pedagogies;
-- Assessment and Measurement (Item Response Theory/Rasch Model);
+- Assessment and Measurement (Item Response Theory, Rasch Model);
