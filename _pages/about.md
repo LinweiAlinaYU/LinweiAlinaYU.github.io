@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Hong Kong S.A.R. </p>
+    <p>     Hong Kong S.A.R. </p>
     
 
 # news: true # includes a list of news items
