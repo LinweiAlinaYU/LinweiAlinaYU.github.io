@@ -21,12 +21,11 @@ social: true # includes social icons at the bottom of the page
 
 I am Linwei (Alina) YU, a PhD student at The University of Hong Kong, Faculty of Eduaction, Center of Information Technology for Education. 
 
-I earned my MA.Ed. in Social Research Methodologies degree from the University of California at Berkeley, and a B.Ed. in Integrated Science (with specialization in Chemistry) from the University of Macau. My research interests lie in:
+I earned my MA.Ed. in Social Research Methodologies degree from the University of California at Berkeley, and a B.Ed. in Integrated Science (with specialization in Chemistry) from the University of Macau. 
+
+My research interests lie in:
 
 - Computational Thinking;
-
-- Artificial Intelligence for Education
-  
-- STEM Curriculum and Pedagogies;
-  
+- Artificial Intelligence for Education 
+- STEM Curriculum and Pedagogies; 
 - Assessment and Measurement (Item Response Theory);
