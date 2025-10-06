@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Berkeley, CA, U.S.A. </p>
+    <p> Hong Kong S.A.R. </p>
     
 
 # news: true # includes a list of news items
@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am Linwei (Alina) YU, an MA student in Education (Social Research Methodologies) at the University of California, Berkeley. My research interests lie in:
+I am Linwei (Alina) YU, a PhD student a PhD student at The University of Hong Kong, Faculty of Eduaction, Center of Information Technology for Education. I earned my MA.Ed. in Social Research Methodologies degree from the University of California at Berkeley, and a B.Ed. in Integrated Science (with specialization in Chemistry) from the University of Macau. My research interests lie in:
 
-- Chemistry/STEM Curriculum and Pedagogies;
-- Assessment and Measurement;
 - Computational Thinking;
-- AI/Technology-enhanced Learning.
+- Artificial Intelligence for Education
+- STEM Curriculum and Pedagogies;
+- Assessment and Measurement (Item Response Theory/Rasch Model);
